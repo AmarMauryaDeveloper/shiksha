@@ -13,7 +13,7 @@ export default function ExamTags() {
   return (
    <div className="relative bg-gray-50 ">
     <div className="container mx-auto">
-     <section className= " w-full py-12 ">
+     <section className= " w-full py-12 px-4 ">
       <h2 className="text-2xl md:text-2xl font-bold text-gray-800 mb-8">
         Top Exams this month
       </h2>

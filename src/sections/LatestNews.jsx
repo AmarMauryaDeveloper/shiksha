@@ -5,7 +5,7 @@ import NewsCard from "../components/home/NewsCard";
 export default function LatestNews() {
   return (
     <section className="w-full py-12 bg-[#f7f8f9]">
-      <div className="container mx-auto  ">
+      <div className="container mx-auto px-4 ">
 
         {/* Heading */}
         <h2 className="text-2xl md:text-3xl font-bold mb-8">
